@@ -1,5 +1,5 @@
 _repo: Kuinka-vaimon-sain-Leikillinen-kertomus_62694
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Wie ich zu 'ner frau kam. Finnish
 contributor:
   translator:
@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - https://fi.wikipedia.org/wiki/Lauri_Soini
     - https://en.wikipedia.org/wiki/Lauri_Soininen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Reuter, Fritz
@@ -27,6 +30,8 @@ creator:
     - https://de.wikipedia.org/wiki/Fritz_Reuter
     - https://en.wikipedia.org/wiki/Fritz_Reuter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62694#Kuinka-vaimon-sain-Leikillinen-kertomus
 gutenberg_issued: '2020-07-18'
 gutenberg_type: Text
 identifiers:
